@@ -1,0 +1,48 @@
+c:\users\jesus\documents\visual studio 2015\Projects\GestorBD\GestorBD\bin\Debug\GestorBD.exe.config
+c:\users\jesus\documents\visual studio 2015\Projects\GestorBD\GestorBD\bin\Debug\GestorBD.exe
+c:\users\jesus\documents\visual studio 2015\Projects\GestorBD\GestorBD\bin\Debug\GestorBD.pdb
+c:\users\jesus\documents\visual studio 2015\Projects\GestorBD\GestorBD\bin\Debug\MetroFramework.Design.dll
+c:\users\jesus\documents\visual studio 2015\Projects\GestorBD\GestorBD\bin\Debug\MetroFramework.dll
+c:\users\jesus\documents\visual studio 2015\Projects\GestorBD\GestorBD\bin\Debug\MetroFramework.Fonts.dll
+c:\users\jesus\documents\visual studio 2015\Projects\GestorBD\GestorBD\obj\Debug\GestorBD.Properties.Resources.resources
+c:\users\jesus\documents\visual studio 2015\Projects\GestorBD\GestorBD\obj\Debug\GestorBD.csproj.GenerateResource.Cache
+c:\users\jesus\documents\visual studio 2015\Projects\GestorBD\GestorBD\obj\Debug\GestorBD.exe
+c:\users\jesus\documents\visual studio 2015\Projects\GestorBD\GestorBD\obj\Debug\GestorBD.pdb
+c:\users\jesus\documents\visual studio 2015\Projects\GestorBD\GestorBD\obj\Debug\GestorBD.frmMain.resources
+C:\Users\Jesus\documents\visual studio 2015\Projects\GestorBD\GestorBD\obj\Debug\GestorBD.csprojResolveAssemblyReference.cache
+C:\Users\Jesus\documents\visual studio 2015\Projects\GestorBD\GestorBD\obj\Debug\GestorBD.frmTables.resources
+C:\Users\Jesus\Documents\Visual Studio 2015\Projects\GestorBD\GestorBD\obj\Debug\GestorBD.frmNueva.resources
+C:\Users\Jesus\Documents\Visual Studio 2015\Projects\GestorBD\GestorBD\obj\Debug\GestorBD.frmConsultas.resources
+C:\Users\javy\Downloads\GestorBD\GestorBD\GestorBD\bin\Debug\GestorBD.exe.config
+C:\Users\javy\Downloads\GestorBD\GestorBD\GestorBD\obj\Debug\GestorBD.exe
+C:\Users\javy\Downloads\GestorBD\GestorBD\GestorBD\obj\Debug\GestorBD.pdb
+C:\Users\javy\Downloads\GestorBD\GestorBD\GestorBD\bin\Debug\GestorBD.exe
+C:\Users\javy\Downloads\GestorBD\GestorBD\GestorBD\bin\Debug\GestorBD.pdb
+C:\Users\javy\Downloads\GestorBD\GestorBD\GestorBD\obj\Debug\GestorBD.csprojResolveAssemblyReference.cache
+C:\Users\javy\Downloads\GestorBD\GestorBD\GestorBD\obj\Debug\GestorBD.frmConsultas.resources
+C:\Users\javy\Downloads\GestorBD\GestorBD\GestorBD\obj\Debug\GestorBD.frmMain.resources
+C:\Users\javy\Downloads\GestorBD\GestorBD\GestorBD\obj\Debug\GestorBD.frmNueva.resources
+C:\Users\javy\Downloads\GestorBD\GestorBD\GestorBD\obj\Debug\GestorBD.Properties.Resources.resources
+C:\Users\javy\Downloads\GestorBD\GestorBD\GestorBD\obj\Debug\GestorBD.csproj.GenerateResource.Cache
+C:\Users\javy\Downloads\GestorBD\GestorBD\GestorBD\obj\Debug\GestorBD.frmTables.resources
+C:\Users\Jesus\Desktop\GestorBD\GestorBD\GestorBD\bin\Debug\GestorBD.exe.config
+C:\Users\Jesus\Desktop\GestorBD\GestorBD\GestorBD\obj\Debug\GestorBD.exe
+C:\Users\Jesus\Desktop\GestorBD\GestorBD\GestorBD\obj\Debug\GestorBD.pdb
+C:\Users\Jesus\Desktop\GestorBD\GestorBD\GestorBD\bin\Debug\GestorBD.exe
+C:\Users\Jesus\Desktop\GestorBD\GestorBD\GestorBD\bin\Debug\GestorBD.pdb
+C:\Users\Jesus\Desktop\GestorBD\GestorBD\GestorBD\obj\Debug\GestorBD.frmMain.resources
+C:\Users\Jesus\Desktop\GestorBD\GestorBD\GestorBD\obj\Debug\GestorBD.frmNueva.resources
+C:\Users\Jesus\Desktop\GestorBD\GestorBD\GestorBD\obj\Debug\GestorBD.frmTables.resources
+C:\Users\Jesus\Desktop\GestorBD\GestorBD\GestorBD\obj\Debug\GestorBD.Properties.Resources.resources
+C:\Users\Jesus\Desktop\GestorBD\GestorBD\GestorBD\obj\Debug\GestorBD.csproj.GenerateResource.Cache
+C:\Users\Jesus\Desktop\GestorBD\GestorBD\bin\Debug\GestorBD.exe.config
+C:\Users\Jesus\Desktop\GestorBD\GestorBD\obj\Debug\GestorBD.exe
+C:\Users\Jesus\Desktop\GestorBD\GestorBD\obj\Debug\GestorBD.pdb
+C:\Users\Jesus\Desktop\GestorBD\GestorBD\bin\Debug\GestorBD.exe
+C:\Users\Jesus\Desktop\GestorBD\GestorBD\bin\Debug\GestorBD.pdb
+C:\Users\Jesus\Desktop\GestorBD\GestorBD\obj\Debug\GestorBD.csprojResolveAssemblyReference.cache
+C:\Users\Jesus\Desktop\GestorBD\GestorBD\obj\Debug\GestorBD.frmMain.resources
+C:\Users\Jesus\Desktop\GestorBD\GestorBD\obj\Debug\GestorBD.frmNueva.resources
+C:\Users\Jesus\Desktop\GestorBD\GestorBD\obj\Debug\GestorBD.frmTables.resources
+C:\Users\Jesus\Desktop\GestorBD\GestorBD\obj\Debug\GestorBD.Properties.Resources.resources
+C:\Users\Jesus\Desktop\GestorBD\GestorBD\obj\Debug\GestorBD.csproj.GenerateResource.Cache

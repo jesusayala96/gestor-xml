@@ -1,0 +1,3 @@
+﻿Medida Tile grande: 200; 140
+Medida Tile mediano: 200;70
+Medida Tile chico: 100;70

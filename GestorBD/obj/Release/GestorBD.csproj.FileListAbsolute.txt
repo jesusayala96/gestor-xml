@@ -1,0 +1,6 @@
+C:\Users\Jesus\Desktop\GestorBD\GestorBD\GestorBD\bin\Release\GestorBD.exe.config
+C:\Users\Jesus\Desktop\GestorBD\GestorBD\GestorBD\obj\Release\GestorBD.frmMain.resources
+C:\Users\Jesus\Desktop\GestorBD\GestorBD\GestorBD\obj\Release\GestorBD.frmNueva.resources
+C:\Users\Jesus\Desktop\GestorBD\GestorBD\GestorBD\obj\Release\GestorBD.frmTables.resources
+C:\Users\Jesus\Desktop\GestorBD\GestorBD\GestorBD\obj\Release\GestorBD.Properties.Resources.resources
+C:\Users\Jesus\Desktop\GestorBD\GestorBD\GestorBD\obj\Release\GestorBD.csproj.GenerateResource.Cache

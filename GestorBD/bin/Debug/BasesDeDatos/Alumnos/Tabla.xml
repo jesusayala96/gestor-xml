@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Tabla>
+  <Atributos>
+    <Atributo tipo="Entero" longitud="10">id</Atributo>
+    <Atributo tipo="Texto" longitud="30">nom</Atributo>
+    <Atributo tipo="Texto" longitud="30">app</Atributo>
+    <Atributo tipo="Entero" longitud="15">edad</Atributo>
+  </Atributos>
+  <Registros>
+    <Registro id="2" nom="pepe" app="toro" edad="15" />
+  </Registros>
+</Tabla>

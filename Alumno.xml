@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Alumno>
+  <Atributos>
+    <Atributo tipo="Entero" longitud="30">id</Atributo>
+    <Atributo tipo="Texto" longitud="30">nombre</Atributo>
+    <Atributo tipo="Texto" longitud="30">apellido</Atributo>
+    <Atributo tipo="Texto" longitud="3">carrera</Atributo>
+  </Atributos>
+
+  <Registros>
+    <Registro id="1" nombre="jesus" apellido="ayala" carrera="ISC"></Registro>
+    <Registro id="2" nombre="eduardo" apellido="sandoval" carrera="TIC"></Registro>
+    <Registro id="3" nombre="pepe" apellido="toro" carrera="MEC"></Registro>
+  </Registros>
+</Alumno>
